@@ -23,4 +23,5 @@ steps:
 - script: |
     cd Sample_Selenium
     pip install selenium==3.14.0
+    pip install pytest
     python index2.py
